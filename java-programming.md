@@ -2,15 +2,6 @@
 
 **Course:** [Java Programming by University of Helsinki](https://java-programming.mooc.fi/)
 
-- [[#Part 1|Part 1]]
-	- [[#Part 1#Getting started with programming|Getting started with programming]]
-	- [[#Part 1#Printing|Printing]]
-	- [[#Part 1#Reading Input|Reading Input]]
-	- [[#Part 1#Variables|Variables]]
-	- [[#Part 1#Calculating with numbers|Calculating with numbers]]
-	- [[#Part 1#Conditional statements and conditional operation|Conditional statements and conditional operation]]
-	- [[#Part 1#Programming in our society|Programming in our society]]
-
 ## Part 1
 ### Getting started with programming
 Modern programming is practically always done in an **integrated development environment** (IDE). An IDE is a software for building applications that combine common developer tools into a single **graphical user interface** (GUI).
